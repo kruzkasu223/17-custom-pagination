@@ -9,6 +9,6 @@ module.exports = {
   plugins: [require("daisyui")],
   daisyui: {
     styled: true,
-    theme: ["synthwave"],
+    theme: ["luxury"],
   },
 }
